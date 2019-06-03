@@ -9,13 +9,6 @@
 * **LOOT**
 * **New Vegas Configurator**
 * **4GB Patch**
-* **All NVSE Plugins**
-* **All Mods**
-* **Every Asset Required**
-
-----
-
-## [DOWNLOAD](https://github.com/Snowynx/new-vegas-modding/releases/download/dist/newvegasmodding.zip)
 
 ----
 
@@ -25,7 +18,7 @@
 
 ## General Notes
 
-### Run the game once to create registry keys, and to fill the "IStewieAI Tweaks" and "OneTweak" INI configuration files with (more) options (which you can edit yourself) <br><br> I did **not** create **ANYTHING** you download here, with the exception of the distribution file, which I packaged together myself in my own free-time <br><br> Mods in the distribution file will be updated monthly (if they require updates)
+### Run the game once to create registry keys, and to fill the "IStewieAI Tweaks" and "OneTweak" INI configuration files with (more) options (which you can edit yourself).
 
 ----
 
